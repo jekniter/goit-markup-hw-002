@@ -19,9 +19,22 @@ font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.header-contacts{
-  
+.header-contacts {
+    font-style: normal;
 }
+
+.header-contacts-links {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-contacts-links:hover,
+.header-contacts-links:focus {
+    color: #404bbf;
+}
+
+
 body{
     font-family:'Roboto', sans-serif;
     color:#434455 ;
