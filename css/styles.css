@@ -1,3 +1,13 @@
+header{
+  font-family:"Raleway",
+    sans-serif ;
+    font-weight: 700;
+    font-size:18px ;
+    ine-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 body{
     font-family:'Roboto', sans-serif;
     color:#434455 ;
